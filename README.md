@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- I'm Majed from Turkey<br>- I’m working as a Computer Engineering Student<br>- I'm currently learning Flutter</p>
+<p align="left">- I'm Majed from Syria<br>- I’m working as a Computer Engineering Student<br>- I'm currently learning Flutter</p>
 
 ###
 
